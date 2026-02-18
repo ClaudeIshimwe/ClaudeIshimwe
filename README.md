@@ -1,5 +1,6 @@
 ## Cloud Engineer specializing in GCP 
 ### Skills:  Linux • Terraform • Docker • GKE
+[linkedin.com/in/claudeishimwe](https://linkedin.com)
   
 
 <!--
