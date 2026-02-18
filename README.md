@@ -1,5 +1,5 @@
 ## DevOps Engineer specializing in GCP 
-### Skills:  Linux & Bash • Terraform • Docker • GKE  • Python  • GitHub Actions
+### Skills:  Linux • Terraform • Docker • GKE  • Python  • GitHub Actions
 [linkedin.com/in/claudeishimwe](https://linkedin.com)
   
 
