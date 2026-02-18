@@ -1,5 +1,5 @@
-- Cloud Engineer specializing in GCP (Linux | Terraform | Docker | GKE)
-- Building cloud projects
+## Cloud Engineer specializing in GCP 
+### Skills: (Linux | Terraform | Docker | GKE)
   
 
 <!--
