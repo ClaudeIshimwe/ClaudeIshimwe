@@ -1,4 +1,10 @@
-## Hi there 👋
+## Cloud Engineer specializing in GCP
+## Skills
+- **Linux & Bash**
+- **Terraform**
+- **Docker**
+- **GKE**
+  
 
 <!--
 **ClaudeIshimwe/ClaudeIshimwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
