@@ -1,19 +1,10 @@
-### DevOps Engineer | GCP
-#### Skills:  Linux • Terraform • Docker • GKE  • Python  • GitHub Actions
-[linkedin.com/in/claudeishimwe](https://linkedin.com)
-  
+# Claude Ishimwe
 
-<!--
-**ClaudeIshimwe/ClaudeIshimwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud DevOps Engineer · GCP
 
-Here are some ideas to get you started:
+## Stack:
+Linux · Terraform · Kubernetes · GKE · CI/CD · FinOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[Linkedin](https://www.linkedin.com/in/claudeishimwe/)
+[Website](https://claudeishimwe.com/)
